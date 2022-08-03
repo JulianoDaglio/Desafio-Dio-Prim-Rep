@@ -1,0 +1,65 @@
+.post_image {
+    border: 1px solid #000;
+    border-radius: 40%;
+}
+body {
+    background-color: rgb(211, 208, 208);
+    background-image: url(dados.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+#title {
+    color: rgb(11, 11, 20);
+    padding: 14px 8px;
+    border: 2px solid #000;
+    background-color: rgba(201, 198, 198, 0.863);
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+.subtitle {
+    color: rgb(11, 11, 20);
+    padding: 14px 8px;
+    border: 2px solid #000;
+    background-color: rgba(201, 198, 198, 0.863);
+    border-radius: 5px;
+}
+.texto{
+    color: rgb(11, 11, 20);
+    background-color: rgba(201, 198, 198, 0.863);
+    border-radius: 5px;
+    font-size: 14px;
+    font-style: italic;
+    padding: 14px 8px;
+    border: 2px solid #000;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.post_title {
+    color: rgb(11, 11, 20);
+    padding: 14px 8px;
+    border: 2px solid #000;
+    background-color: rgba(201, 198, 198, 0.863);
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.list {
+    list-style-type: square;
+    color: rgb(11, 11, 20);
+    padding-left: 15px;
+    border: 2px solid #000;
+    background-color: rgba(201, 198, 198, 0.863);
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.list a {
+    color: blue;
+}
+

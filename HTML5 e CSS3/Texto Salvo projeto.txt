@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> JcDaglio Serviços de informática</title>
+        <link rel="stylesheet" href="style.css">    
+    </head>
+    <body>
+        <header>
+          <img src="Juliano.png"class="post_image">
+            <h1 class="subtitle">Juliano César Daglio</h1> 
+        </header>
+        <section>
+            <p class="texto">
+                Olá pessoal! Meu nome é Juliano, tenho 28 anos com formação em Direito mas atualmente estudo
+                e atuo na area de programação. <br> Realizo alguns serviços básico de informática e vou trazer aqui pra vocês!  <br>
+                Caso tenham interesse e quisem realizar um orçamento, basta entrar em contato utilizando uma das formas
+                descritas ao final da página! <br> Forte abraço!
+            </p>
+            <header>
+<h2 class="subtitle">Serviços
+    <li class="post_title">Formatação</li>
+    <li class="post_title">Instalação Office</li>
+    <li class="post_title">Limpeza</li>
+    <li class="post_title">Otimização do sistema</li>
+            </header>
+            <article>
+                <header>
+</h2>                    
+            </article>
+        </section>
+        <footer>
+ <h3 class="list">Contato:
+ 
+            <ul >
+                <li><a  href="https://www.linkedin.com/in/juliano-daglio-824649171/"traget="_blank">linkedin</a> </li>
+                <li><a  href="https://www.instagram.com/jcdaglio/"traget="_blank">Instagram</a> </li>
+                <li><a  href="mailto: juliano_daglio@hotmail.com"> E-mail</a> </li>
+                <li><a  href="https://github.com/JulianoDaglio"traget="blank">github</a> </li>
+            </ul> 
+</h3>       
+        </footer>
+    </body>
+</html>
